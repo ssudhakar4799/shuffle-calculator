@@ -1,0 +1,27 @@
+
+#keyorder{
+    width: 300px;
+}
+
+ .btn {
+     display:inline-block;
+     width: 32%;
+     height: 50px;
+     line-height: 30px;
+
+ }
+ #clear{
+     
+     display: inline-block;
+     width: 65%;
+     height: 50px;
+     line-height: 30px;
+ }
+ #number{
+     width: 25%;
+     height: 40px;
+     line-height: 40px;
+     display: inline-block;
+     text-align: right;
+     font-size: 30px;
+ }
